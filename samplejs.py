@@ -17,7 +17,7 @@ if run == 0:
         print(elem_h3.text)
         print(elem_a.get_attribute('href'))
 elif run == 1:
-    driver.get('https://jp.mercari.com/item/m15569517855')
+    driver.get('https://jp.mercari.com/item/m65979487099')
     sleep(3)
     error_flg = False
     if error_flg is False:
